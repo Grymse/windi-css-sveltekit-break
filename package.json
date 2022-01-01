@@ -1,0 +1,17 @@
+{
+  "name": "windi-sveltekit-problem",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "package": "svelte-kit package",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "next",
+    "@sveltejs/kit": "next",
+    "svelte": "^3.44.0",
+    "svelte-windicss-preprocess": "^4.2.5"
+  },
+  "type": "module"
+}
